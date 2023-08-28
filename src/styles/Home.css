@@ -1,0 +1,31 @@
+.Ucard{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+}
+.Ucard img{
+    width: 300px;
+    height: 200px;
+    margin-top: 5px;
+}
+.name{
+    font-family: 'Charm', cursive;
+    font-size: 40px !important;
+}
+.recipe{
+    background-image: linear-gradient(rgb(232, 84, 34),rgb(226, 226, 34));
+}
+.Urecipe img{
+width: 350px;
+height: 400px;
+/* border: 2px solid black; */
+border-radius: 40px;
+}
+.myimg{
+    align-items: center !important;
+    width: 400px !important;
+    height: 400px;
+}

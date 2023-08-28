@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Charm:wght@700&family=Libre+Baskerville:ital@0;1&family=Roboto+Slab:wght@300&display=swap');
+.Unavbar{
+    background-image: linear-gradient(rgb(232, 84, 34),rgb(226, 226, 34));
+}
+.Unavbar a, .Unavbar2 a{
+    color: rgb(230, 14, 14) !important;
+    font-size: 25px;
+}
+.Unavbar2 button{
+    color: rgb(230, 14, 14) !important;
+    font-size: 25px;
+}
+.name{
+    color: rgb(230, 14, 14);
+    font-family: 'Charm', cursive;
+    font-size: 40px !important;
+    text-decoration: underline;
+}
+.Unavbar a:hover, .Unavbar2 button:hover{
+font-weight: bold;
+color: red !important;
+}
+.heading{
+    font-weight: bold;
+}
